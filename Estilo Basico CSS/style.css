@@ -1,0 +1,26 @@
+
+header nav a{
+    background-color: rgb(27, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 100px;
+    border-radius: 5px;
+    padding: 5px;
+    
+    
+}
+body section{
+    padding-top: 30px;
+}
+body{
+    background-color: aquamarine;
+}
+footer{
+    color: white;
+    background-color: rgb(27, 25, 25);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
