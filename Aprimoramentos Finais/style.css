@@ -4,19 +4,25 @@
     width: 250px;
     border-radius: 50px;
     padding: 25px;
+    
 
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 
 
 }
 #profile{
+    
     background-color: chocolate;
     width: 350px;
-    height: 500px;
+    height: 550px;
     border-radius: 20px;
     padding-left: 50px;
+    border-style: solid;
+
 
 }
 #profile ul{
@@ -26,8 +32,12 @@ button{
     display:flex;
     padding-left: 5px;
     margin-left: 90px;
-    border-color:cornflowerblue;
     border-radius: 5px; 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+    
+
 
 
 }
+
